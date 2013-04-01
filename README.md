@@ -2,7 +2,7 @@ TheBigDB issues
 ===============
 
 Hello!  
-While TheBigDB isn't open-source (yet?), I'm a big fan of Github's Issues functionality, so here is an empty repo just for that purpose.  
+While [TheBigDB.com](http://thebigdb.com) isn't open-source (yet?), I'm a big fan of Github's Issues functionality, so here is an empty repo just for that purpose.  
   
 => **[TheBigDB issues](https://github.com/thebigdb/thebigdb-issues/issues)** <=  
   
