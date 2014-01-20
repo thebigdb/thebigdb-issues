@@ -1,6 +1,8 @@
 TheBigDB issues
 ===============
 
+**UPDATE FROM JANUARY 20th 2014: This repo is now "deprecated", http://thebigdb.com/ got a real website now!**
+
 Hello!  
 While [TheBigDB.com](http://thebigdb.com) isn't open-source (yet?), I'm a big fan of Github's Issues functionality, so here is an empty repo just for that purpose.  
   
