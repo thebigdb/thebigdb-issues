@@ -1,6 +1,6 @@
 TheBigDB issues
 ===============
 
-**UPDATE FROM JANUARY 20th 2014: This repo is now "deprecated", http://thebigdb.com/ got a real website now!**
+**UPDATE FROM OCTOBER 9th 2014: This repo is now "deprecated", the service is closed.**
 
 -- Christophe
